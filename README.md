@@ -1,6 +1,6 @@
 # Patek Philippe Data Engineering Pipeline
 
-**Machine Learning course project | EDHEC**
+**Business Data Management course project | EDHEC**
 
 Fully containerized data pipeline for a BigQuery + Docker assignment: ingests Patek Philippe watch listing data, enriches prices with historical exchange rates, optionally trains a model to predict resale value, and feeds a live dashboard.
 
